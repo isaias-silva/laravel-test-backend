@@ -7,10 +7,10 @@ Somos uma empresa de tecnologia voltada a simplificação de processos burocrát
 O objetivo deste teste é entendermos um pouco mais sobre seus conhecimentos de Frontend e Backend no Laravel.
 
 ##### Requisitos
-- PHP 7.1+
-- Laravel (Preferência 5.8+)
-- Vue.JS
-- Docker Engine
+- PHP 8.1+
+- Laravel 11.x
+- React / Next.js
+- Docker / Laravel Sail
 
 ##### Orientações
 Faça um fork deste projeto.
@@ -61,7 +61,6 @@ Para que o cadastro ocorra deverá haver validações em dois níveis. Frontend 
 - Job: deve-se utilizar alguma forma de job;
 - Teste unitário de backend;
 - Teste de integração backend;
-- SPA.
 - Usabilidade (A usabilidade das funcionalidades fica a cargo do desenvolvedor) :D
 
 
